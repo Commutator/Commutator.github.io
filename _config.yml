@@ -12,10 +12,10 @@ title : 水中舟
 tagline: Site Tagline
 author :
   name : Commutator
-  email : daozhou.yao@gmail.com
+  email : daozhou.yao at gmail.com
   github : Commutator
-  twitter : username
-  feedburner : feedname
+#  twitter : username
+#  feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
